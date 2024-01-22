@@ -1,0 +1,6 @@
+{
+    "browser": "chrome",
+    "url": "https://www.google.com",
+    "headless_mode": false,
+    "explicit_wait": 10
+}
