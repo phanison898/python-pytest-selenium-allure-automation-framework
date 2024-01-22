@@ -1,6 +1,5 @@
 from Main.home_page import HomePage
 from Main.base import Base
-import allure
 
 class TestHome(Base):
 
